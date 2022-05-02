@@ -36,7 +36,12 @@ body {
     width: 80%;
 }
 
-h3:hover {
+.navbar-2 a {
+    text-decoration: none;
+    font-size: 18px;
+}
+
+a:hover {
     color: #fff;
 }
 
